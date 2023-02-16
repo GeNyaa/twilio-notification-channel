@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/twilio",
+    "name": "genyaa/twilio-notification-channels",
     "description": "Provides Twilio notification channel for Laravel",
     "keywords": [
         "laravel",
